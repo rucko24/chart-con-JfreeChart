@@ -149,7 +149,6 @@ public class Chart extends JFrame {
 	public static void main(String[] args) {
 		
 		Chart myChart = new Chart(Chart.POLAR, "Charts");
-		
-		
+				
 	}
 }
